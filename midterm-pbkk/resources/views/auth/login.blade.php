@@ -33,7 +33,6 @@
 <body>
 
     <div class="logo-container">
-        <img src="{{ asset('assets/dnotes.png') }}" alt="Your Logo" class="w-12 h-12">
     </div>
 
     <div class="content-container">

@@ -59,8 +59,7 @@
         <div class="container mx-auto p-4 nav-container">
             <div class="flex items-center justify-between">
                 <div class="flex items-center">
-                    <img src="{{ asset('assets/dnotes.png') }}" alt="Logo" class="w-8 h-8 mr-2">
-                    <a class="text-xl font-bold text-slate-400" href="#">Dnotes</a>
+                    <a class="text-xl font-bold text-slate-400" href="#">Danindra Inventory</a>
                 </div>
                 <div class="flex items-center space-x-4">
                     <span class="text-gray-600">Welcome, {{ auth()->user()->name }}!</span>
